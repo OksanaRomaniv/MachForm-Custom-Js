@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 93 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-78,-35)">
+        <g transform="matrix(6.64286,0,0,7.6,-440.143,-231)">
+            <path d="M92,36.25C92,35.56 91.359,35 90.57,35L79.43,35C78.641,35 78,35.56 78,36.25L78,38.75C78,39.44 78.641,40 79.43,40L90.57,40C91.359,40 92,39.44 92,38.75L92,36.25Z" style="fill:rgb(117,223,107);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-1)">
+            <g>
+                <text x="87.5px" y="62.356px" style="font-family:'Nunito-Regular', 'Nunito';font-size:20.833px;fill:rgb(248,247,246);">Send</text>
+                <text x="140.667px" y="62.356px" style="font-family:'FontAwesome';font-size:20.833px;fill:rgb(248,247,246);"></text>
+            </g>
+        </g>
+    </g>
+</svg>
